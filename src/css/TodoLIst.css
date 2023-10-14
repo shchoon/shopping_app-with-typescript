@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+  }
+  
+  .header {
+    width: 30%;
+    margin: 0 auto;
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .todoList {
+    background-color: aqua;
+    width: 40%;
+    margin: 0 auto;
+  }
+  .todoList span {
+    width: 30%;
+    display: inline-block;
+    border-right: 3px solid white;
+    text-align: center;
+  }
